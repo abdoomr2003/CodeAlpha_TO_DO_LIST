@@ -117,14 +117,6 @@ task-manager/
 4. **Delete a Task**:
    - Click the "Delete" button to remove a task from the list.
 
-## Screenshots
-
-1. **Task Form**
-   Allows users to add tasks with title, description, and priority.
-
-2. **Task List**
-   Displays tasks with their descriptions, priorities, and action buttons for completing or deleting tasks.
-
 ## Contributing
 
 If you'd like to contribute:
